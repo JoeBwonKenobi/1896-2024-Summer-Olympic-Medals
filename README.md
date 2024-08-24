@@ -11,16 +11,16 @@
 
 ![Total Medals awarded each year 1896-2024](https://github.com/user-attachments/assets/a759f8d7-ab1e-4939-a2b9-f9bbc75c1157)
 
-### *United States**
+### *United States*
 
 ![Total Medals won Yearly by US](https://github.com/user-attachments/assets/80865257-8b0f-4bbc-8f3a-9750c5c678b6)
 
 - This shows the total number of medals the US was awarded over the years.
-- 
+  
 ![Most Common Medal Won By US Yearly](https://github.com/user-attachments/assets/0fca5b91-2be6-4e11-acf8-2c95052e78f4)
 
 - This visualizes the monst common medal type awarded to the US through the years.
-- 
+  
 ![Medal Trend For US over the years](https://github.com/user-attachments/assets/f1392093-ea9c-4060-9bf4-175561f74985)
 
 -This shows the increase of decrease of the number of medals won compared to the previous year.
@@ -49,7 +49,7 @@
 
 ![Most common Oceania](https://github.com/user-attachments/assets/81fc9152-2508-4a39-a8f9-e05093d82485)
 
-### *South AMerica*
+### *South America*
 
 ![Most Common South America](https://github.com/user-attachments/assets/ce554b3f-f0f0-4e3b-81bb-f6b9c814f0ef)
 
