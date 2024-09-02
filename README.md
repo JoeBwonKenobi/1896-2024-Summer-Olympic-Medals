@@ -1,7 +1,7 @@
 # 1896-2024 Summer Olympic Medals
  Olympic  Medals Over the years
 
-## *Overview*
+## **Overview**
 
 This project explores the historical data of Olympic medals from 1896 to 2024 to uncover patterns, trends, and insights related to national and continental performance. By analyzing this extensive dataset, the goal was to understand the factors influencing medal outcomes, such as age, medal types, and host country advantages. The project also seeks to identify trends in medal efficiency and the impact of hosting the Olympics on a country’s performance. The insights gained can offer valuable perspectives on how different nations and continents have evolved in their Olympic success over time.
 
