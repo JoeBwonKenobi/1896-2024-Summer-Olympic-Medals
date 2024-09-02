@@ -2,7 +2,6 @@
  Olympic  Medals Over the years
 
 ## *Overview*
-## pip install country-converter
 
 ## *Methods*
 
