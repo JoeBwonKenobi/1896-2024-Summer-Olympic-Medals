@@ -32,10 +32,12 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 ### *Visualizations:* Various visualizations, including bar charts, pie charts, and line plots, were used to illustrate key findings:
 
-- Medal trends of top-performing countries.
-- Comparison of continental performance across different Olympics.
-- Age distribution and its significance in medal-winning performances.
-
+- Total Medals Awarded Each Year.
+- Total medals won United States.
+- Most Common Medal Won By US Yearly.
+- US Medal Trend
+- Total Medals By Continents
+- Total Medals Over Time
 
 ## *Visualizations*
 
@@ -48,7 +50,7 @@ The dataset used in this project is comprised of historical records of Olympic M
 - Various events have been added and/ or removed over the years.
 
 
-### *United States*
+### *Total medals won United States*
 
 ![Total Medals won Yearly by US](https://github.com/user-attachments/assets/80865257-8b0f-4bbc-8f3a-9750c5c678b6)
 
