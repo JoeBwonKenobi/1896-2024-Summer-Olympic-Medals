@@ -71,7 +71,8 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 ## *Total Medals By Continents*
 
-![Total Medals by Continent](https://github.com/user-attachments/assets/17c1bf73-ebc4-4ab4-b8fb-5db856a0e705)
+![download](https://github.com/user-attachments/assets/9d6a9bdd-cab5-400f-b492-06fdac1e5d88)
+
 
 - This shows us that Europe has dominated in total amount of medals won throughout the years of the Olympics.
 
