@@ -7,15 +7,20 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 
 # *Methods*
 
-### *Data Cleaning & Preprocessing:* The dataset was prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
+### *Data Cleaning & Preprocessing:*
+- The dataset was prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
 
-### *Feature Engineering:* Additional features were created to enhance the analysis:
+### *Feature Engineering:* Additional features were created to enhance the analysis
 
 *Medal Efficiency:* A metric to evaluate the efficiency of countries in winning medals relative to their participation.
 
 *Host Advantage:* A measure to analyze the impact of hosting the Olympics on medal counts.
 
+*Continent Aggregation:* Creating a columnm that contains which continent each country is from.
+
 *Medal Trend:* The percentage change in total medals won by each country across different Olympic Games.
+
+*Most Common Medal:* Most common medal won by each country overall.
 
 ### *Visualizations:* Various visualizations, including bar charts, pie charts, and line plots, were used to illustrate key findings:
 
