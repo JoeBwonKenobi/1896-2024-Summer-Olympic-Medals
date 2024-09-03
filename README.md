@@ -81,18 +81,23 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 *Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
 
-![Medal Eff HP](https://github.com/user-attachments/assets/c826d929-ede0-4635-b897-dad9e94100ed)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c826d929-ede0-4635-b897-dad9e94100ed" alt="Medal Eff HP">
+</p>
+
 
 
 *Host Advantage Hypothesis:* Testing if hosting the Olympics significantly impacts a country’s total medal count.
-![Host Advantage HP](https://github.com/user-attachments/assets/a6429c6e-33a3-4147-b6ce-0b0725661bb3)
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/137ac0e1-7448-4ead-b4dd-4a7973417e06" alt="Medal Eff by Country HP">
+</p>
 
 *Effect of Medal Type on Medal Efficiency:* Investigating if the type of medal won influences a country’s efficiency.
 
-![Most common Oceania](https://github.com/user-attachments/assets/34d1846d-e3ae-4704-81a7-14c480237ec8)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9bcd13c-2827-4dea-8a2b-95905fe80999" alt="Medal Eff and Medal Trend HP">
+</p>
 
 *Medal efficiency across different countries:* Looking for correlation between Medal efficiency and countries.
 
@@ -101,13 +106,15 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 *Medal efficiency effects on medal trends:* Looking at medal efficiency correlation with medal trends.
 
-
-![Medal eff and Medal trend HP](https://github.com/user-attachments/assets/e9bcd13c-2827-4dea-8a2b-95905fe80999)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9bcd13c-2827-4dea-8a2b-95905fe80999" alt="Medal Eff and Medal Trend HP">
+</p>
 
 *Host advantage effect on most common medal:* Looking for correlation between the host advantage and most common medal won when a country is hosting the Olympics.
 
-
-![Host Advantage on Common medal HP](https://github.com/user-attachments/assets/ec928518-bdc1-4771-bd2b-ddb8ede10895)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec928518-bdc1-4771-bd2b-ddb8ede10895" alt="Host Advantage on Common Medal HP">
+</p>
 
 Summary
 
