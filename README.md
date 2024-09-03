@@ -75,15 +75,10 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 ## *Total Medals Over Time*
 
-![Total Medals Overtime at least 7](https://github.com/user-attachments/assets/3a46366f-98e8-476c-8e12-fa6808fdeca7)
+![download](https://github.com/user-attachments/assets/2cdec467-325f-4962-84a9-cac74eb7d1e4)
 
 - This shows that the US has  pretty consistently dominated in total medals over the years.
 
-## *Country With The Most Medals Each Year*
-
-![download](https://github.com/user-attachments/assets/2cdec467-325f-4962-84a9-cac74eb7d1e4)
-
-  
 ### *Hypothesis Testing:* Several hypotheses were tested to validate assumptions:
 
 *Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
