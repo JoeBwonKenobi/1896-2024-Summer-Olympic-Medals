@@ -127,6 +127,5 @@ Several hypotheses were tested to validate assumptions, results for each of thes
 
 Summary
 
-![Facts about ](https://github.com/user-attachments/assets/27e89884-fc7b-4bb7-88bb-e53d0ac54464)
 
 
