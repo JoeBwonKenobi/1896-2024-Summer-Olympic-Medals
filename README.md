@@ -57,32 +57,6 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 
 - This shows us that Europe has dominated in overall amount of medals won throughout the years of the Olympics.
 
-### *Most common medals won by each continent over the years*
-
-### *Europe*
-
-![Most common Europe](https://github.com/user-attachments/assets/d918743b-7231-4247-9ea6-8a17b8f30474)
-
-### *North America*
-
-![Most common NA](https://github.com/user-attachments/assets/e7bfa8dc-a191-40d6-937b-032b4de9a650)
-
-### *Asia*
-
-![Most common Asia](https://github.com/user-attachments/assets/2250369f-cc72-4d47-bb92-50ec10571cfc)
-
-### *Oceania*
-
-![Most common Oceania](https://github.com/user-attachments/assets/81fc9152-2508-4a39-a8f9-e05093d82485)
-
-### *South America*
-
-![Most Common South America](https://github.com/user-attachments/assets/ce554b3f-f0f0-4e3b-81bb-f6b9c814f0ef)
-
-### *Africa*
-
-![Most Common Africa](https://github.com/user-attachments/assets/8bc5ee70-321b-46de-ab2a-c167d377655b)
-
 ## *Total Medals Over Time*
 
 ![Total Medals Trend Over Time](https://github.com/user-attachments/assets/515726d5-3b97-4f7a-b243-40bf730c6c26)
