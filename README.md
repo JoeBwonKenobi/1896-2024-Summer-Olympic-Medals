@@ -82,7 +82,9 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 - This shows that the US has  pretty consistently dominated in total medals over the years.
 
-### *Hypothesis Testing:* Several hypotheses were tested to validate assumptions:
+### *Hypothesis Testing:* 
+
+Several hypotheses were tested to validate assumptions, results for each of these are captured below:
 
 *Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
 
