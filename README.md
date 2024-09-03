@@ -101,7 +101,9 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 *Medal efficiency across different countries:* Looking for correlation between Medal efficiency and countries.
 
-![Medal eff by country HP](https://github.com/user-attachments/assets/137ac0e1-7448-4ead-b4dd-4a7973417e06)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/137ac0e1-7448-4ead-b4dd-4a7973417e06" alt="Medal Eff by Country HP">
+</p>
 
 
 *Medal efficiency effects on medal trends:* Looking at medal efficiency correlation with medal trends.
