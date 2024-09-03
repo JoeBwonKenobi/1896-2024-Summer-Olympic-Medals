@@ -122,9 +122,6 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 Summary
 
-
-
-![download](https://github.com/user-attachments/assets/34bd37dd-01ee-469a-89b6-ed07dd86772c)
-
+![Facts about ](https://github.com/user-attachments/assets/27e89884-fc7b-4bb7-88bb-e53d0ac54464)
 
 
