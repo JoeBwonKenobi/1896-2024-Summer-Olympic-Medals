@@ -23,13 +23,6 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 - Comparison of continental performance across different Olympics.
 - Age distribution and its significance in medal-winning performances.
 
-### *Hypothesis Testing:* Several hypotheses were tested to validate assumptions:
-
-*Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
-
-*Effect of Medal Type on Medal Efficiency:* Investigating if the type of medal won influences a country’s efficiency.
-
-*Host Advantage Hypothesis:* Testing if hosting the Olympics significantly impacts a country’s medal count.
 
 ## *Visualizations*
 
@@ -94,7 +87,19 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 
 ![Total Medals Trend Over Time](https://github.com/user-attachments/assets/515726d5-3b97-4f7a-b243-40bf730c6c26)
 
-Hypothesis Testing
+### *Hypothesis Testing:* Several hypotheses were tested to validate assumptions:
+
+*Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
+
+*Host Advantage Hypothesis:* Testing if hosting the Olympics significantly impacts a country’s total medal count.
+
+*Effect of Medal Type on Medal Efficiency:* Investigating if the type of medal won influences a country’s efficiency.
+
+*Medal efficiency across different countries:* Looking for correlation between Medal efficiency and countries.
+
+*Medal efficiency effects on medal trends:* Looking at medal efficiency correlation with medal trends.
+
+*Host advantage effect on most common medal:* Looking for correlation between the host advantage and most common medal won when a country is hosting the Olympics.
 
 Summary
 
