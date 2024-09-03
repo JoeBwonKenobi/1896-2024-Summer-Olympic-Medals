@@ -37,6 +37,13 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 
 ![Total Medals awarded each year 1896-2024](https://github.com/user-attachments/assets/a759f8d7-ab1e-4939-a2b9-f9bbc75c1157)
 
+
+
+
+
+
+
+
 ### *United States*
 
 ![Total Medals won Yearly by US](https://github.com/user-attachments/assets/80865257-8b0f-4bbc-8f3a-9750c5c678b6)
