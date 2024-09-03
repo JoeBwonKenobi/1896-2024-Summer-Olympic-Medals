@@ -1,9 +1,6 @@
 # 1896-2024 Summer Olympic Medals
  Olympic  Medals Over the years
 
- 
-![Olympics emblem](https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c)
-
 <div align="center">
 	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c)">
 </div>
