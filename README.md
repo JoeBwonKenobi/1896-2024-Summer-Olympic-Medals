@@ -33,7 +33,7 @@ The dataset used in this project is comprised of historical records of Olympic M
 ### *Visualizations:* Various visualizations, including bar charts, pie charts, and line plots, were used to illustrate key findings:
 
 - Total Medals Awarded Each Year.
-- Total medals won United States.
+- Total Medals won United States.
 - Most Common Medal Won By US Yearly.
 - US Medal Trend
 - Total Medals By Continents
