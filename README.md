@@ -75,8 +75,10 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 ## *Total Medals Over Time*
 
-![Total Medals Trend Over Time](https://github.com/user-attachments/assets/515726d5-3b97-4f7a-b243-40bf730c6c26)
+![Total Medals Overtime at least 7](https://github.com/user-attachments/assets/3a46366f-98e8-476c-8e12-fa6808fdeca7)
 
+- This shows that the US has  pretty consistently dominated in total medals over the years.
+  
 ### *Hypothesis Testing:* Several hypotheses were tested to validate assumptions:
 
 *Medal Efficiency and Continent Performance:* Analyzing whether certain continents consistently outperform others.
