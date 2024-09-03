@@ -47,7 +47,7 @@ The dataset used in this project is comprised of historical records of Olympic M
 ![Total Medals awarded each year 1896-2024](https://github.com/user-attachments/assets/a759f8d7-ab1e-4939-a2b9-f9bbc75c1157)
 
 
-- Various events have been added and/ or removed over the years.
+- The number of participants have varied throughout the years, due to some events being added or taken away.
 
 
 ### *Total medals won United States*
