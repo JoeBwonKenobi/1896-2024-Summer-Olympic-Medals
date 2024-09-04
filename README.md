@@ -16,9 +16,10 @@ The dataset used in this project is comprised of historical records of Olympic M
 # *Methods*
 
 ### *Data Cleaning & Preprocessing:*
-- The dataset was prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
+- The dataset was cleaned using Pandas, prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
 
-### *Feature Engineering:* Additional features were created to enhance the analysis
+### *Feature Engineering:* 
+- Used Pandas and NumPy to create additional features and enhance the overall analysis.
 
 - *Medal Efficiency:* A metric to evaluate the efficiency of countries in winning medals relative to their participation.
 
