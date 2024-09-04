@@ -63,7 +63,7 @@ Employed Seaborn, Matplotlib, and Plotly for various visualizations, including b
 
 ![Most Common Medal Won By US Yearly](https://github.com/user-attachments/assets/0fca5b91-2be6-4e11-acf8-2c95052e78f4)
 
-- This visualizes the monst common medal type awarded to the US through the years.
+- This visualizes the most common medal type awarded to the US through the years.
 
 ### *US Medal Trend*
 
