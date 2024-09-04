@@ -2,7 +2,7 @@
  Olympic  Medals Over the years
 
 <p align="center">
-  <img width = "85%" src="https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c" alt="Olympics emblem">
+  <img width = "75%" src="https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c" alt="Olympics emblem">
 </p>
 
 ## Overview
