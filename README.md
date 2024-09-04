@@ -2,7 +2,7 @@
  Olympic  Medals Over the years
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c" alt="Olympics emblem">
+  <img width = "85%" src="https://github.com/user-attachments/assets/1dde9650-6a81-4e4d-963d-c06876f8bb4c" alt="Olympics emblem">
 </p>
 
 ## Overview
@@ -129,8 +129,9 @@ Several hypotheses were tested to validate assumptions, results for each of thes
 
 Summary:
 Many insights were gained throught this project about medal trends and efficiency for different countries and continents. 
-The US has dominated overall in terms of toatl medals awarded, but the dominant continent is by far Europe.
+The US has dominated overall in terms of toatl medals awarded and also holds the record for the most medals won at a single year of the olympics, but the dominant continent is by far Europe for the total amount of medals won.
 Medal efficientcy differs significantly between continents.
+There is a significant host advantage for countries when the Olypics are held in their own country, there's also a significance of host advantage on the most common medal won.
 
 
 
