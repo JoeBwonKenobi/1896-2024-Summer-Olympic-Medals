@@ -128,10 +128,7 @@ Several hypotheses were tested to validate assumptions, results for each of thes
 </p>
 
 Summary:
-Many insights were gained throught this project about medal trends and efficiency for different countries and continents. 
-The US has dominated overall in terms of toatl medals awarded and also holds the record for the most medals won at a single year of the olympics, but the dominant continent is by far Europe for the total amount of medals won.
-Medal efficientcy differs significantly between continents.
-There is a significant host advantage for countries when the Olypics are held in their own country, there's also a significance of host advantage on the most common medal won.
+This project uncovered key insights into medal trends and efficiency across different countries and continents in the Olympic Games from 1896 to 2024. The United States has consistently led in total medals awarded, holding the record for the most medals won in a single Olympics. However, Europe stands out as the dominant continent in terms of overall medal count. The analysis also revealed significant differences in medal efficiency between continents. Additionally, a clear host advantage was observed, with countries performing better when the Olympics are held in their own nation. This advantage extends to the most common medal won during these events as well.
 
 
 
