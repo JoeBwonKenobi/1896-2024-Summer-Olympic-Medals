@@ -31,7 +31,8 @@ The dataset used in this project is comprised of historical records of Olympic M
 
 - *Most Common Medal:* Most common medal won by each country overall.
 
-### *Visualizations:* Various visualizations, including bar charts, pie charts, and line plots, were used to illustrate key findings:
+### *Visualizations:* 
+- Employed Seaborn, Matplotlib, and Plotly for various visualizations, including bar charts, pie charts, and line plots, that helped to illustrate key findings:
 
 - Total Medals Awarded Each Year.
 - Total Medals won United States.
