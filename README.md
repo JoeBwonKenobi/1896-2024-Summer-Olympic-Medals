@@ -127,7 +127,8 @@ Several hypotheses were tested to validate assumptions, results for each of thes
   <img src="https://github.com/user-attachments/assets/ec928518-bdc1-4771-bd2b-ddb8ede10895" alt="Host Advantage on Common Medal HP">
 </p>
 
-Summary:
+**Summary:**
+
 This project uncovered key insights into medal trends and efficiency across different countries and continents in the Olympic Games from 1896 to 2024. The United States has consistently led in total medals awarded, holding the record for the most medals won in a single Olympics. However, Europe stands out as the dominant continent in terms of overall medal count. The analysis also revealed significant differences in medal efficiency between continents. Additionally, a clear host advantage was observed, with countries performing better when the Olympics are held in their own nation. This advantage extends to the most common medal won during these events as well.
 
 
