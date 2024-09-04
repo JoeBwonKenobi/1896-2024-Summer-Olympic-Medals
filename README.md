@@ -105,7 +105,7 @@ Several hypotheses were tested to validate assumptions, results for each of thes
 *Effect of Medal Type on Medal Efficiency:* Investigating if the type of medal won influences a country’s efficiency.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9bcd13c-2827-4dea-8a2b-95905fe80999" alt="Medal Eff and Medal Trend HP">
+  <img src="https://github.com/user-attachments/assets/c2e29787-2038-4b52-bf8d-e0ffc1330b6e" alt="Medal Eff and Medal Trend HP">
 </p>
 
 *Medal efficiency across different countries:* Looking for correlation between Medal efficiency and countries.
