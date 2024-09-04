@@ -99,7 +99,7 @@ Several hypotheses were tested to validate assumptions, results for each of thes
 *Host Advantage Hypothesis:* Testing if hosting the Olympics significantly impacts a country’s total medal count.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/137ac0e1-7448-4ead-b4dd-4a7973417e06" alt="Medal Eff by Country HP">
+  <img src="https://github.com/user-attachments/assets/8e6635aa-6497-4372-b260-f355795649c2" alt="Medal Eff by Country HP">
 </p>
 
 *Effect of Medal Type on Medal Efficiency:* Investigating if the type of medal won influences a country’s efficiency.
@@ -127,7 +127,12 @@ Several hypotheses were tested to validate assumptions, results for each of thes
   <img src="https://github.com/user-attachments/assets/ec928518-bdc1-4771-bd2b-ddb8ede10895" alt="Host Advantage on Common Medal HP">
 </p>
 
-Summary
+Summary:
+Many insights were gained throught this project about medal trends and efficiency for different countries and continents. 
+The US has dominated overall in terms of toatl medals awarded, but the dominant continent is by far Europe.
+Medal efficientcy differs significantly between continents.
+
+
 
 
 
