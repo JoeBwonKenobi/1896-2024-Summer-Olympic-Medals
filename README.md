@@ -16,10 +16,10 @@ The dataset used in this project is comprised of historical records of Olympic M
 # *Methods*
 
 ### *Data Cleaning & Preprocessing:*
-- The dataset was cleaned using Pandas, prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
+The dataset was cleaned using Pandas, prepared by handling missing values and ensuring consistency in the data, particularly focusing on standardizing country names and codes.
 
 ### *Feature Engineering:* 
-- Used Pandas and NumPy to create additional features and enhance the overall analysis.
+Used Pandas and NumPy to create additional features and enhance the overall analysis.
 
 - *Medal Efficiency:* A metric to evaluate the efficiency of countries in winning medals relative to their participation.
 
@@ -32,7 +32,7 @@ The dataset used in this project is comprised of historical records of Olympic M
 - *Most Common Medal:* Most common medal won by each country overall.
 
 ### *Visualizations:* 
-- Employed Seaborn, Matplotlib, and Plotly for various visualizations, including bar charts, pie charts, and line plots, that helped to illustrate key findings:
+Employed Seaborn, Matplotlib, and Plotly for various visualizations, including bar charts, pie charts, and line plots, that helped to illustrate key findings:
 
 - Total Medals Awarded Each Year.
 - Total Medals won United States.
