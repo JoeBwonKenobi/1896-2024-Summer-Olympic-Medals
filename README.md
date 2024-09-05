@@ -13,6 +13,10 @@ This project explores the historical data of Olympic medals from 1896 to 2024 to
 
 The dataset used in this project is comprised of historical records of Olympic Medals from 1986-2024, including information on medal counts, participating countries, athlete details, and hosting countries. 
 
+Link to data source:
+
+- https://www.kaggle.com/datasets/ramontanoeiro/summer-olympic-medals-1986-2020
+
 # *Methods*
 
 ### *Data Cleaning & Preprocessing:*
